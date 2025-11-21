@@ -107,7 +107,9 @@ console.log("mapResult", mapResult);
 
 // ANONYMOUS FUNCTION
 
-() => {};
+// (() => {})();
+// (function(){})()
+
 // IIFE => IMMEDIATELY INVOKED FUNCTION EXPRESSION
 
 ((test) => {
